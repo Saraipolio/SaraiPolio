@@ -20,7 +20,15 @@
   - I am currently learning Nawat, it is an indigineous (pre-hispanic) language of El Salvador
   - I am a Senior at Meredith College searching for a job in the CS or Data Science field!
   - I am interested in learning botany and plan to self-teach! 🌱
-
+  
+  -💬 Skills:
+    - JavaScript
+    - HTML & CSS
+    - PHP
+    - Java
+    - Python
+    - R Programming Language
+    - JMP Statistical Software
 
 <!--
 **Saraipolio/SaraiPolio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
