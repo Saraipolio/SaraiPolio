@@ -21,7 +21,7 @@
   - I am a Senior at Meredith College searching for a job in the CS or Data Science field!
   - I am interested in learning botany and plan to self-teach! 🌱
   
-  -💬 Skills:
+- 💬 Skills:
     - JavaScript
     - HTML & CSS
     - PHP
