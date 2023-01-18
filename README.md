@@ -2,7 +2,8 @@
 ### Hi! Welcome to my GitHub! :) 
 
 - 🔭 I’m currently working on
-  - an 'About Me' website coded with React 
+  - Moving all of my projects from my school GitHub to this personal one!
+  - An 'About Me' website coded with React 
 
 - 🌱 I’m currently learning
   - Swift! *super excited to try and recreate a game I love to play called "Cats and Soup"
