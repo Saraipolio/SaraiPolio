@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on
   - Moving all of my projects from my school GitHub to this personal one!
-  - An 'About Me' website coded with React 
+  - An 'About Me' website 
 
 - 🌱 I’m currently learning
   - Swift! *super excited to try and recreate a game I love to play called "Cats and Soup"
