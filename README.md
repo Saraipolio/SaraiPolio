@@ -6,7 +6,7 @@
   - An 'About Me' website 
 
 - 🌱 I’m currently learning
-  - Swift! *super excited to try and recreate a game I love to play called "Cats and Soup"
+  - Swift!
   - React *Trying to advance my skills!
   - R *Super interested in data science currently! 
   
@@ -19,7 +19,7 @@
   
 - ⚡ Fun fact: 
   - I am currently learning Nawat, it is an indigineous (pre-hispanic) language of El Salvador
-  - I am a Senior at Meredith College searching for a job in the CS or Data Science field!
+  - I am a Senior at Meredith College searching for a job in the CS or Data Science fields!
   - I am interested in learning botany and plan to self-teach! 🌱
   
 - 💬 Skills:
