@@ -3,12 +3,6 @@
 
 - 🔭 I’m currently working on
   - Moving all of my projects from my school GitHub to this personal one!
-  - An 'About Me' website 
-
-- 🌱 I’m currently learning
-  - Swift!
-  - React *Trying to advance my skills!
-  - R *Super interested in data science currently! 
   
 - 📫 How to reach me: 
   - Personal Email: Saraipolio13@gmail.com
@@ -18,8 +12,8 @@
   - she/her
   
 - ⚡ Fun fact: 
-  - I am currently learning Nawat, it is an indigineous (pre-hispanic) language of El Salvador
-  - I am a Senior at Meredith College searching for a job in the CS or Data Science fields!
+  - I am currently learning Nawat, it is an indigineous (pre-hispanic) language of El Salvador.
+  - I recently graduated from Meredith College with a degree in Computer Science.
   - I am interested in learning botany and plan to self-teach! 🌱
   
 - 💬 Skills:
